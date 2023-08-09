@@ -9,7 +9,7 @@
       <p><b>Address:Huazhong University of Science and Technology, Wuhan, Hubei Province</b></p>
     </td>
     <td width="25%">
-      <img src="https://github.com/hhhhjun/jzhao.github.io/blob/master/zhaojin.jpg" width="100%">
+      ![image](https://github.com/hhhhjun/jzhao.github.io/blob/master/zhaojin.jpg)
     </td>
   </tr>
 </table>
