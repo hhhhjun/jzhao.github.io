@@ -7,7 +7,6 @@
       <p><b>School of Computer Science and Technology, Huazhong University of Science and Technology</b></p>
       <p><b>E-mail:zjin@hust.edu.cn</b></p>
       <p><b>Address:Huazhong University of Science and Technology, Wuhan, Hubei Province</b></p>
-      <p><a href="/index-en.html">English Version</a></p>
     </td>
     <td width="25%">
       <img src="/zhaojin.jpg" width="100%">
