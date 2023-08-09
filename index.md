@@ -9,12 +9,11 @@
       <p><b>Address:Huazhong University of Science and Technology, Wuhan, Hubei Province</b></p>
     </td>
     <td width="25%">
-      
+      <img src="/zhaojin.jpg" width="100%">
     </td>
   </tr>
 </table>
 </div>
-![image](https://github.com/hhhhjun/jzhao.github.io/blob/master/zhaojin.jpg)
 ---
 
 Jin Zhao, Male，个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介
