@@ -2,7 +2,6 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Jin Zhao</h1>
       <p><b>Doctor</b></p>
       <p><b>School of Computer Science and Technology, Huazhong University of Science and Technology</b></p>
       <p><b>E-mail: zjin@hust.edu.cn</b></p>
