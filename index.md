@@ -46,7 +46,12 @@ Graph Computing System Software and Architecture
 - **[TBD'22]** GGraph: An Efficient Structure-aware Approach for Iterative Graph Processing. Beibei Si, Yuxuan Liang,  **Jin Zhao**, Yu Zhang, Xiaofei Liao, Hai Jin, Haikun Liu, and Lin Gu. IEEE Transactions on Big Data
 - **[中国科学:信息科学'19]** 一种高效的面向动态有向图的增量强连通分量算法. 廖小飞, 陈意诚, 张宇, 金海, 刘海坤, **赵进**. 中国科学:信息科学.
 - **[中国科学:信息科学'22]** 图计算在ATPG中的应用探究. 毛伏兵, 彭达, 张宇, 廖小飞, 姜新宇,杨赟, 金海, **赵进**, 刘海坤, 王柳峥. 中国科学: 信息科学.
-- **[JCST'22]** Toward High-Performance Delta-Based Iterative Processing with a Group-Based Approach. Hui Yu, Xinyu Jiang, **Jin Zhao**, Hao Qi, Yu Zhang, Xiaofei Liao, Haikun Liu, Fubing Mao, Hai Jin. Journal of Computer Science and Technology. 
+- **[JCST'22]** Toward High-Performance Delta-Based Iterative Processing with a Group-Based Approach. Hui Yu, Xinyu Jiang, **Jin Zhao**, Hao Qi, Yu Zhang, Xiaofei Liao, Haikun Liu, Fubing Mao, Hai Jin. Journal of Computer Science and Technology.
+- **[TACO'23]** GraphTune: An Efficient Dependency-Aware Substrate to Alleviate Irregularity in Concurrent Graph Processing. **Jin Zhao**,Yu Zhang, Ligang He, Qikun Li, Xiang Zhang, Hui Yu, Xiaofei Liao, Hai Jin, Lin Gu, Haikun Liu, Bingsheng He, Ji Zhang, Xianzheng Song, Lin Wang, Jun Zhuo. ACM Transactions on Architecture and Code Optimization.
+- **[DAC'23]** SaGraph: A Similarity-aware Hardware Accelerator for Temporal Graph Processing. **Jin Zhao**, Yu Zhang, Jian Cheng, Yiyang Wu, Chuyue Ye, Hui Yu, Zhiying Huang, Hai Jin, Xiaofei Liao, Lin Gu, Haikun Liu. Design Automation Conference.
+- **[TACO'22]** RACE: An Efficient Redundancy-aware Accelerator for Dynamic Graph Neural Network. Hui Yu, Yu Zhang, **Jin Zhao**, Yujian Liao, Zhiying Huang, Donghao He,Lin Gu,Hai Jin, Xiaofei Liao,Haikun Liu. ACM Transactions on Architecture and Code Optimization.
+- **[DAC'23]** PSMiner: A Pattern-Aware Accelerator for High-Performance Streaming Graph Pattern Mining. Hao Qi, Yu Zhang, Ligang He, Kang Luo, Jun Huang, Haoyu Lu, **Jin Zhao**, Hai Jin. Design Automation Conference.
+
 
 ### Project
 - **National Key R&D Program Project**  
