@@ -2,10 +2,10 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <p><b>Doctor</b></p>
-      <p><b>School of Computer Science and Technology, Huazhong University of Science and Technology</b></p>
-      <p><b>E-mail: zjin@hust.edu.cn</b></p>
-      <p><b>Address: Huazhong University of Science and Technology, Wuhan, Hubei Province</b></p>
+      <p><b>博士</b></p>
+      <p><b>华中科技大学 计算机科学与技术学院</b></p>
+      <p><b>邮箱: zjin@hust.edu.cn</b></p>
+      <p><b>地址: 湖北省武汉市华中科技大学</b></p>
     </td>
     <td width="25%">
       <img src="https://raw.githubusercontent.com/hhhhjun/jzhao.github.io/master/zhaojin.jpg" width="100%">
@@ -15,27 +15,27 @@
 </div>
 ---
 
-Jin Zhao, Male，个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介
+赵进， 男，个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介
 
 ---
 
-### Research Direction
-Graph Computing System Software and Architecture
+### 研究方向
+图计算系统软件和体系结构
 
-### Awards and Honors
-- Outstanding Graduate Cadre, 2018 and 2019
-- National Scholarship, Dameng Scholarship, Huawei Scholarship, and Tencent Scholarship, 2021
-- National Gold Award of the 7th China International "Internet plus" Undergraduate Innovation and Entrepreneurship Competition, 2021
-- The first prize of the "Excellent Doctoral Student Academic Style Exhibition Forum" at CCF Wuhan Branch, 2021
-- Ranked first globally in terms of performance and power consumption in the 18th Green Graph 500 ranking, 2021
-- Ranked first globally in the single machine performance and the SSSP performance in the 24th Graph 500 ranking, 2022
-- Selected into Huawei's "Genius Youth" Program, 2022
+### 获奖情况
+- 2018年和2019年获得优秀研究生干部
+- 2021年获得国家奖学金、达梦奖学金、华为奖学金、腾讯奖学金
+- 2021年获得第七届中国国际“互联网+”大学生创新创业大赛全国金奖
+- 2021年获得CCF武汉分会“优秀博士生学术风采展示论坛”一等奖
+- 2021年在第18届Green Graph 500排名中，性能功耗比全球第一
+- 2022年在第24届Graph 500排名中，单机性能全球第一，SSSP性能全球第一
+- 2022年入选华为“天才少年”计划
 
-### Educational Experience
-- Ph.D, Computer Software and Theory, School of Computer Science and Technology, Huazhong University of Science and Technology (2017.09-2022.08)
-- B.E, Information Security, School of Computer Science, China University of Geosciences (Wuhan) (2013.09-2017.06)
+### 教育经历
+- 2017.09-2022.08，华中科技大学，计算机软件与理论，计算机科学与计算学院，博士
+- 2013.09-2017.06，中国地质大学(武汉)，信息安全，计算机学院，学士
 
-### Publications
+### 发表论文
 - **[SC'19]** GraphM: An Efficient Storage System for High Throughput of Concurrent Graph Analytics. **Jin Zhao**, Yu Zhang, Xiaofei Liao, Ligang He, Bingsheng He, Hai Jin, Haikun Liu, and Yicheng Chen. In Proceedings of the 2019 International Conference for High Performance Computing, Networking, Storage,and Analysis.
 - **[SC'21]** LCCG: A Locality-centric Hardware Accelerator for High Throughput of Concurrent Graph Processing. **Jin Zhao**, Yu Zhang, Xiaofei Liao, Ligang He, Bingsheng He, Hai Jin, and Haikun Liu. In Proceedings of the 2021 International Conference for High Performance Computing, Networking, Storage,and Analysis.
 - **[ISCA'22]** TDGraph: A Topology-Driven Accelerator for High-Performance Streaming Graph Processing. **Jin Zhao**,, Yun Yang, Yu Zhang, Xiaofei Liao, Lin Gu, Ligang He, Bingsheng He, Hai Jin, Haikun Liu, Xinyu Jiang, Hui Yu. In Proceedings of the 2022 IEEE/ACM International Symposium on Computer Architecture.
@@ -53,20 +53,20 @@ Graph Computing System Software and Architecture
 - **[DAC'23]** PSMiner: A Pattern-Aware Accelerator for High-Performance Streaming Graph Pattern Mining. Hao Qi, Yu Zhang, Ligang He, Kang Luo, Jun Huang, Haoyu Lu, **Jin Zhao**, Hai Jin. Design Automation Conference.
 
 
-### Project
-- **National Key R&D Program Project**  
-General Computer Technology and System for Graph Computing(No.2018YFB1003500)
-- **Key Projects of National Self Science Foundation**  
-Architecture and Key Technologies for Efficient Processing of Big Data(No.61832006)
-- **National Natural Science Foundation**  
-Research on Optimization Mechanism of Concurrent Graph Computing System Based on Correlation Awareness (No.6170050426)
-- **National Natural Science Foundation**  
-Research on Key Technologies of Runtime Systems for High Concurrency Graph Analysis Services (No.6207050010)
-- **Zhejiang Laboratory Project**  
-Research on Key Technologies of Runtime Systems for High Concurrency Graph Analysis Services (No. 61832006)
-- **Huawei Project**  
-Exploring the Application of Graph Computing in ATPG 
-- **Huawei Joint Laboratory Project**  
-Design of Asynchronous Dynamic Graph Computing Accelerator
-- **Huawei Joint Laboratory Project**  
-High Performance Unified Computing Framework for Large Scale Graph Analysis and Graph Neural Networks
+### 参与项目
+- **国家重点研发计划项目**  
+国家重点研发计划项目，面向图计算的通用计算机技术与系统（No.2018YFB1003500）
+- **国家自然科学基金重点项目**  
+面向大数据高效处理的体系结构与关键技术（No. 61832006）
+- **国家自然科学基金**  
+关联性感知的并发图计算系统优化机制研究 (No.6170050426)
+- **国家自然科学基金**  
+面向高并发图分析服务的运行时系统关键技术研究 (No.6207050010)
+- **之江实验室项目**  
+面向高并发图分析服务的运行时系统关键技术研究（2021KD0AB01）
+- **华为项目**  
+图计算在ATPG中的应用探索
+- **华为联合实验室项目**  
+异步动态图计算加速器设计
+- **华为联合实验室项目**  
+面向大规模图分析和图神经网络的高性能统一计算框架
